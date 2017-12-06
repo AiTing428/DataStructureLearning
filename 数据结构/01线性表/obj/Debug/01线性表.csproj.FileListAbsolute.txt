@@ -1,0 +1,5 @@
+E:\AT\C#\数据结构\01线性表\bin\Debug\01线性表.exe
+E:\AT\C#\数据结构\01线性表\bin\Debug\01线性表.pdb
+E:\AT\C#\数据结构\01线性表\obj\Debug\01线性表.csprojResolveAssemblyReference.cache
+E:\AT\C#\数据结构\01线性表\obj\Debug\01线性表.exe
+E:\AT\C#\数据结构\01线性表\obj\Debug\01线性表.pdb
